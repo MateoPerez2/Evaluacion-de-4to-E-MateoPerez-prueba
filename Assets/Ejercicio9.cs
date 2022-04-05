@@ -33,6 +33,8 @@ public class Ejercicio9 : MonoBehaviour
         porcentaje3 = capitalAportado3 / total * 100;
 
         Debug.Log("Nombre: " + nombre1 + "capital aportado: $" + capitalAportado1 + "Porcentaje del capital: %" + porcentaje1 + "Monto total aportado: $" + total);
+        Debug.Log("Nombre: " + nombre2 + "capital aportado: $" + capitalAportado2 + "Porcentaje del capital: %" + porcentaje2 + "Monto total aportado: $" + total);
+        Debug.Log("Nombre: " + nombre3 + "capital aportado: $" + capitalAportado3 + "Porcentaje del capital: %" + porcentaje3 + "Monto total aportado: $" + total);
     }
 
     // Update is called once per frame
